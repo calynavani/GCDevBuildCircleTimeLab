@@ -1,0 +1,14 @@
+C:\Users\CGreene1\source\repos\GCDevBuildCircleTimeLab\GCDevBuildCircleTimeLab\bin\Debug\netcoreapp3.1\GCDevBuildCircleTimeLab.exe
+C:\Users\CGreene1\source\repos\GCDevBuildCircleTimeLab\GCDevBuildCircleTimeLab\bin\Debug\netcoreapp3.1\GCDevBuildCircleTimeLab.deps.json
+C:\Users\CGreene1\source\repos\GCDevBuildCircleTimeLab\GCDevBuildCircleTimeLab\bin\Debug\netcoreapp3.1\GCDevBuildCircleTimeLab.runtimeconfig.json
+C:\Users\CGreene1\source\repos\GCDevBuildCircleTimeLab\GCDevBuildCircleTimeLab\bin\Debug\netcoreapp3.1\GCDevBuildCircleTimeLab.runtimeconfig.dev.json
+C:\Users\CGreene1\source\repos\GCDevBuildCircleTimeLab\GCDevBuildCircleTimeLab\bin\Debug\netcoreapp3.1\GCDevBuildCircleTimeLab.dll
+C:\Users\CGreene1\source\repos\GCDevBuildCircleTimeLab\GCDevBuildCircleTimeLab\bin\Debug\netcoreapp3.1\GCDevBuildCircleTimeLab.pdb
+C:\Users\CGreene1\source\repos\GCDevBuildCircleTimeLab\GCDevBuildCircleTimeLab\obj\Debug\netcoreapp3.1\GCDevBuildCircleTimeLab.csproj.AssemblyReference.cache
+C:\Users\CGreene1\source\repos\GCDevBuildCircleTimeLab\GCDevBuildCircleTimeLab\obj\Debug\netcoreapp3.1\GCDevBuildCircleTimeLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CGreene1\source\repos\GCDevBuildCircleTimeLab\GCDevBuildCircleTimeLab\obj\Debug\netcoreapp3.1\GCDevBuildCircleTimeLab.AssemblyInfoInputs.cache
+C:\Users\CGreene1\source\repos\GCDevBuildCircleTimeLab\GCDevBuildCircleTimeLab\obj\Debug\netcoreapp3.1\GCDevBuildCircleTimeLab.AssemblyInfo.cs
+C:\Users\CGreene1\source\repos\GCDevBuildCircleTimeLab\GCDevBuildCircleTimeLab\obj\Debug\netcoreapp3.1\GCDevBuildCircleTimeLab.csproj.CoreCompileInputs.cache
+C:\Users\CGreene1\source\repos\GCDevBuildCircleTimeLab\GCDevBuildCircleTimeLab\obj\Debug\netcoreapp3.1\GCDevBuildCircleTimeLab.dll
+C:\Users\CGreene1\source\repos\GCDevBuildCircleTimeLab\GCDevBuildCircleTimeLab\obj\Debug\netcoreapp3.1\GCDevBuildCircleTimeLab.pdb
+C:\Users\CGreene1\source\repos\GCDevBuildCircleTimeLab\GCDevBuildCircleTimeLab\obj\Debug\netcoreapp3.1\GCDevBuildCircleTimeLab.genruntimeconfig.cache
