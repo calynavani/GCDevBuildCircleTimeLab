@@ -10,6 +10,8 @@ namespace GCDevBuildCircleTimeLab
         {
             Console.WriteLine("Welcome to the Circle Tester");
             bool goOn = true;
+            //make a list for the circles to go into
+            List<Circle> ListOfCircles = new List<Circle>();
             
             while (goOn == true)
             {
@@ -17,9 +19,10 @@ namespace GCDevBuildCircleTimeLab
 
                 Console.WriteLine();
                 double userRadius = GetRadius();
+                
 
-                //make a list for the circles to go into
-                List<Circle> ListOfCircles = new List<Circle>();
+               
+               
 
                 //adds a new circle to the list each radius thats entered
                 ListOfCircles.Add(new Circle(userRadius));
@@ -33,19 +36,39 @@ namespace GCDevBuildCircleTimeLab
                 //Display area
                 c.CalculateArea(userRadius);
 
-                Console.WriteLine(ListOfCircles.Count);
+               
 
                 //call the continue method
                 if (Continue() == false)
                 {
-                    foreach (var circle in ListOfCircles)//print the list of circles
+                    Console.WriteLine($"You've created {ListOfCircles.Count} circles ");//prints the count total
+                    //foreach (var circle in ListOfCircles)//print the list of circles
+                      //{
+                   //    Console.WriteLine(circle);
+
+
+
+                    //}
+
+                    //break;
+                    for (int i = 0; i < ListOfCircles.Count; i++)
                     {
-                        Console.WriteLine(circle);
-                  
-                        break;
+                       
+
+                    
+                    
+                       
+
+                        string output = $"Radius: {Math.Round(c.radius,2)} \n";
+                        output += $"Circumference: {Math.Round(c.circumference,2)} \n";
+                        output += $"Area: {Math.Round(c.area,2)} \n";
+                      
+                        
                     }
+                    goOn = false;
 
                 }
+                
 
 
             }
